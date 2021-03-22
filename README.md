@@ -1,7 +1,7 @@
 ```markdown
 
 # Brief :
-## This is a personal code editor developed for myself to write and execute JavaScript code on locahost.
+## This is a personal code editor developed for myself to write and execute JavaScript code on localhost.
 
 • This is developed for learning purpose for improving my JS Skills.
 • Users can be able to write, compile and run their JavaScript code and can also be able to see the output.
